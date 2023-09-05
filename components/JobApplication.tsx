@@ -48,9 +48,6 @@ export const JobApplication = ({
         <h1 className="text-[24px] text-black font-bold text-center">
           Tuyển dụng
         </h1>
-        <h1 className="text-[24px] text-pink-600 font-bold text-center">
-          PHP Developer Thu Nhập Đến 22 Triệu
-        </h1>
         <div className="w-2/3 mt-10 mx-auto flex flex-col gap-2">
           <span className="font-bold text-noSelected">
             Your Developer Account

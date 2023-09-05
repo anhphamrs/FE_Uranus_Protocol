@@ -58,7 +58,6 @@ export const walletSlice = createSlice({
   },
 });
 
-
 export const { logout } = walletSlice.actions;
 export default walletSlice.reducer;
 
