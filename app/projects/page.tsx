@@ -151,8 +151,12 @@ const page = () => {
                       </a>
                     </td>
                     <td className="text-left px-6 py-3 truncate">
-                      <a href={data.github} className="text-blue-500">
-                        {data.github}
+                      <a
+                        target="_blank"
+                        href={data.twitter}
+                        className="text-blue-500"
+                      >
+                        {data.twitter}
                       </a>
                     </td>
                   </tr>

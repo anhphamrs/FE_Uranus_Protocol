@@ -15,9 +15,9 @@ export const ProjectData: any = [
 *5/ Phổ biến các giao dịch bằng tiền điện tử: * Với việc mở rộng định hướng và hợp tác với tất cả các ví điện tử, ngân hàng và dịch vụ tài chính chính trên toàn cầu, Uranus mong muốn cung cấp các .
 
 Uranus Protocol cung cấp sự minh bạch, an toàn và hiệu quả trong mô hình làm việc từ xa, tạo cơ hội cho các cá nhân và doanh nghiệp tham gia một cách tin cậy và thuận lợi trong thế giới hiện đại.`,
-    github: "https://github.com/MinT2104",
+    github: "https://github.com/anhphamrs",
     twitter: "https://twitter.com",
-    money: "10$",
+    money: "10 Near",
     location: "Ho Chi Minh City",
     category: "Website",
   },
@@ -31,9 +31,9 @@ Uranus Protocol cung cấp sự minh bạch, an toàn và hiệu quả trong mô
 NFT được sử dụng chủ yếu để đại diện cho sự sở hữu của các tài sản kỹ thuật số độc nhất, chẳng hạn như tác phẩm nghệ thuật số, video trực tuyến, âm nhạc, video game, v.v. Mỗi NFT đều có thông tin về sự sở hữu, quyền tác giả và lịch sử giao dịch được lưu trữ trong mã thông tin.
 
 NFT đã tạo ra một cuộc cách mạng trong lĩnh vực nghệ thuật kỹ thuật số và giúp các nghệ sĩ có thể bán tác phẩm của họ trực tiếp cho người hâm mộ mà không cần qua các sàn giao dịch truyền thống. Tuy nhiên, NFT cũng gặp phải một số tranh cãi liên quan đến vấn đề môi trường (do quá trình khai thác blockchain) và tính bền vững của thị trường NFT.`,
-    github: "https://github.com/MinT2104",
+    github: "https://github.com/anhphamrs",
     twitter: "https://twitter.com",
-    money: "15$",
+    money: "15 Near",
     location: "Da Nang City",
     category: "Mobile",
   },
